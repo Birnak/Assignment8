@@ -9,8 +9,7 @@
         Finnst fyrsta auðveldara að lesa þar sem ég er með hvern reit inní if lúppu og sé hvað
         gerist ef ég ýti á ákveðinn staf.
     3. Wich problems in the first impementation were you able to solve with later implementation?
-        
-
+        Reyndi að gera seinna verkefnið en tókst það greinilega ekki nogu vel- en markmiðið var að reyna stytta það og gera það skiljanlegra.
 """
 
 #Þetta forrit er þannig að þú ert á leiðinni í gegnum völundarhús. Getur farið norður(upp),Austur(hægri),Suður(niður) og vestur(vinstri).
